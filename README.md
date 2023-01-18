@@ -2,6 +2,9 @@
 
 =================================================================================
 
+*Laravel hasn't been easy especially to beginners,NOTE THIS especially to configuring laravel and composer to work globally.
+This  series Brings to all newbies how to do that,in just a few simple steps.*
+
 ## Introduction
 
 Laravel uses composer to run and create projects,before proceeding with this install,please ensure you have composer install globally,is not you must first install from their official page [here](https://https://getcomposer.org/doc/00-intro.md).
