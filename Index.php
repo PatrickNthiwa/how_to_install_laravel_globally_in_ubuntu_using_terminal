@@ -1,0 +1,1 @@
+Laravel Development and composer Updates using terminal on ubuntu
