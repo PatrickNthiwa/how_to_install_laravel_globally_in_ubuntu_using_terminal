@@ -1,0 +1,1 @@
+# how_to_install_laravel_globally_in_ubuntu_using_terminal
