@@ -2,7 +2,7 @@
 
 =================================================================================
 
-*Laravel hasn't been easy especially to beginners,NOTE THIS especially to configuring laravel and composer to work globally.
+*Laravel hasn't been easy especially to beginners,NOTE THIS especially when it comes to configuring laravel and composer to work globally.
 This  series Brings to all newbies how to do that,in just a few simple steps.*
 
 ## Introduction
