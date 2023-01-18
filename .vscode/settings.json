@@ -1,3 +1,6 @@
 {
-    "terminal.integrated.sendKeybindingsToShell": true
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "cSpell.words": [
+        "laravel"
+    ]
 }
